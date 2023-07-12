@@ -1,0 +1,30 @@
+.login-page {
+    text-align: center;
+    color: orange;
+}
+.container {
+    text-align: center;
+   
+}
+
+.username {
+margin-right: 2px;
+    
+}
+.card {
+    background-color: darkcyan;
+}
+.text-right.forget-pass a{
+    font-size: 12px;
+    color: #d39e00;
+    text-decoration: none;
+    margin-right: 2px;
+  }
+  .sign-up{
+    color: #fff;
+  }
+  .sign-up a{
+    color: #d39e00;
+    font-weight: 600;
+    text-decoration: none;
+  }
